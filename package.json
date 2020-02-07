@@ -77,7 +77,8 @@
     "tslint": "~5.20.0",
     "typescript": "~3.5.3",
     "puppeteer": "^1.20.0",
-    "sonar-scanner": "^3.1.0"
+    "sonar-scanner": "^3.1.0",
+    "ng-packagr": "^9.0.0" 
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.803.7",
