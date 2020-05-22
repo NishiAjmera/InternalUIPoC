@@ -78,7 +78,8 @@
     "typescript": "~3.5.3",
     "puppeteer": "^1.20.0",
     "sonar-scanner": "^3.1.0",
-    "ng-packagr": "^9.0.0" 
+    "ng-packagr": "^9.0.0",
+    "focus-visible": "5.1.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.803.7",
